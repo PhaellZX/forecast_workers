@@ -1,0 +1,526 @@
+Date,Product,Category,Quantity,Unit Price,Total Revenue
+2023-01-01,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-01-01,Sneakers White 42,Shoes,2,60.0,120.0
+2023-01-01,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-02,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-02,Sneakers White 42,Shoes,2,60.0,120.0
+2023-01-02,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-01-02,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-01-02,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-03,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-01-03,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-03,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-03,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-03,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-04,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-05,Sneakers White 42,Shoes,2,60.0,120.0
+2023-01-05,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-06,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-01-06,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-06,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-06,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-01-07,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-07,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-01-08,Cap Classic,Accessories,1,10.0,10.0
+2023-01-08,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-08,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-09,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-01-09,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-09,Cap Classic,Accessories,3,10.0,30.0
+2023-01-09,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-01-10,Cap Classic,Accessories,3,10.0,30.0
+2023-01-10,Cap Classic,Accessories,3,10.0,30.0
+2023-01-10,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-10,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-01-11,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-01-11,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-11,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-01-12,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-12,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-01-12,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-12,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-12,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-01-13,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-01-13,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-14,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-01-14,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-14,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-01-14,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-14,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-15,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-01-15,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-15,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-16,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-16,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-16,Cap Classic,Accessories,3,10.0,30.0
+2023-01-16,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-01-17,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-17,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-01-17,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-18,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-19,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-19,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-19,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-20,Cap Classic,Accessories,3,10.0,30.0
+2023-01-20,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-20,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-01-20,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-21,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-21,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-21,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-21,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-01-22,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-22,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-01-23,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-23,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-01-23,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-01-23,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-23,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-24,Cap Classic,Accessories,1,10.0,10.0
+2023-01-25,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-01-25,Cap Classic,Accessories,1,10.0,10.0
+2023-01-25,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-01-25,Sneakers White 42,Shoes,1,60.0,60.0
+2023-01-26,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-01-26,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-01-26,Cap Classic,Accessories,2,10.0,20.0
+2023-01-26,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-01-27,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-27,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-01-27,Sneakers White 42,Shoes,2,60.0,120.0
+2023-01-27,Cap Classic,Accessories,2,10.0,20.0
+2023-01-28,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-01-28,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-28,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-28,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-29,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-01-29,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-01-29,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-01-30,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-01-30,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-31,Sneakers White 42,Shoes,3,60.0,180.0
+2023-01-31,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-01-31,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-01-31,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-02-01,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-02-01,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-02-01,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-01,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-02-02,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-02-02,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-02-03,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-03,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-03,Sneakers White 42,Shoes,3,60.0,180.0
+2023-02-03,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-02-04,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-04,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-02-04,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-02-04,Cap Classic,Accessories,2,10.0,20.0
+2023-02-04,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-05,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-02-05,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-05,Cap Classic,Accessories,2,10.0,20.0
+2023-02-05,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-02-05,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-02-06,Cap Classic,Accessories,2,10.0,20.0
+2023-02-06,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-06,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-02-06,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-07,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-08,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-08,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-02-09,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-02-09,Cap Classic,Accessories,2,10.0,20.0
+2023-02-09,Cap Classic,Accessories,2,10.0,20.0
+2023-02-10,Sneakers White 42,Shoes,2,60.0,120.0
+2023-02-10,Sneakers White 42,Shoes,2,60.0,120.0
+2023-02-10,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-02-10,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-10,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-02-11,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-11,Cap Classic,Accessories,3,10.0,30.0
+2023-02-11,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-02-11,Cap Classic,Accessories,2,10.0,20.0
+2023-02-11,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-12,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-02-12,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-13,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-02-14,Sneakers White 42,Shoes,3,60.0,180.0
+2023-02-14,Cap Classic,Accessories,2,10.0,20.0
+2023-02-14,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-02-15,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-02-15,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-02-15,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-02-15,Cap Classic,Accessories,3,10.0,30.0
+2023-02-16,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-02-16,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-17,Sneakers White 42,Shoes,3,60.0,180.0
+2023-02-18,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-18,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-02-18,Sneakers White 42,Shoes,3,60.0,180.0
+2023-02-18,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-02-19,Sneakers White 42,Shoes,2,60.0,120.0
+2023-02-19,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-02-19,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-02-20,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-02-20,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-02-20,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-20,Sneakers White 42,Shoes,3,60.0,180.0
+2023-02-20,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-02-21,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-22,Sneakers White 42,Shoes,1,60.0,60.0
+2023-02-22,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-02-22,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-02-23,Cap Classic,Accessories,1,10.0,10.0
+2023-02-23,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-02-23,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-02-23,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-02-24,Sneakers White 42,Shoes,3,60.0,180.0
+2023-02-24,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-02-24,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-02-24,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-02-25,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-02-25,Sneakers White 42,Shoes,2,60.0,120.0
+2023-02-25,Sneakers White 42,Shoes,2,60.0,120.0
+2023-02-25,Cap Classic,Accessories,3,10.0,30.0
+2023-02-25,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-02-26,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-02-27,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-02-27,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-02-27,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-02-28,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-02-28,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-02-28,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-02-28,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-02-28,Sneakers White 42,Shoes,3,60.0,180.0
+2023-03-01,Sneakers White 42,Shoes,3,60.0,180.0
+2023-03-01,Cap Classic,Accessories,3,10.0,30.0
+2023-03-02,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-03-02,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-03-02,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-03,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-03,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-03-03,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-03-04,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-03-04,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-03-04,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-03-04,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-04,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-05,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-05,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-03-05,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-03-05,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-03-05,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-06,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-03-06,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-03-07,Cap Classic,Accessories,3,10.0,30.0
+2023-03-07,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-07,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-03-08,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-03-08,Cap Classic,Accessories,3,10.0,30.0
+2023-03-08,Cap Classic,Accessories,2,10.0,20.0
+2023-03-09,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-03-10,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-10,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-10,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-03-10,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-03-10,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-03-11,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-03-11,Cap Classic,Accessories,3,10.0,30.0
+2023-03-12,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-12,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-13,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-03-13,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-03-13,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-14,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-14,Sneakers White 42,Shoes,3,60.0,180.0
+2023-03-15,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-16,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-16,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-03-16,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-16,Cap Classic,Accessories,2,10.0,20.0
+2023-03-16,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-03-17,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-03-17,Cap Classic,Accessories,3,10.0,30.0
+2023-03-18,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-03-19,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-03-19,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-03-19,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-03-19,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-03-19,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-20,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-20,Cap Classic,Accessories,1,10.0,10.0
+2023-03-21,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-03-21,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-03-22,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-03-22,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-03-22,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-22,Cap Classic,Accessories,3,10.0,30.0
+2023-03-23,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-03-23,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-03-23,Sneakers White 42,Shoes,1,60.0,60.0
+2023-03-23,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-03-23,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-24,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-03-24,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-03-25,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-03-26,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-03-26,Cap Classic,Accessories,1,10.0,10.0
+2023-03-26,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-26,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-26,Cap Classic,Accessories,1,10.0,10.0
+2023-03-27,Cap Classic,Accessories,3,10.0,30.0
+2023-03-27,Cap Classic,Accessories,1,10.0,10.0
+2023-03-27,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-03-28,Sneakers White 42,Shoes,2,60.0,120.0
+2023-03-28,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-03-29,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-03-29,Sneakers White 42,Shoes,3,60.0,180.0
+2023-03-30,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-03-31,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-03-31,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-03-31,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-04-01,Sneakers White 42,Shoes,2,60.0,120.0
+2023-04-01,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-04-01,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-02,Cap Classic,Accessories,1,10.0,10.0
+2023-04-02,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-04-02,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-02,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-04-03,Cap Classic,Accessories,3,10.0,30.0
+2023-04-03,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-03,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-04-04,Cap Classic,Accessories,1,10.0,10.0
+2023-04-05,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-05,Cap Classic,Accessories,2,10.0,20.0
+2023-04-05,Cap Classic,Accessories,3,10.0,30.0
+2023-04-05,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-04-05,Cap Classic,Accessories,3,10.0,30.0
+2023-04-06,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-04-06,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-06,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-04-06,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-04-07,Cap Classic,Accessories,1,10.0,10.0
+2023-04-07,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-04-07,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-07,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-04-08,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-04-08,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-04-08,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-09,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-09,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-09,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-04-10,Sneakers White 42,Shoes,2,60.0,120.0
+2023-04-10,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-11,Cap Classic,Accessories,3,10.0,30.0
+2023-04-12,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-04-13,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-04-14,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-04-14,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-04-15,Cap Classic,Accessories,2,10.0,20.0
+2023-04-15,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-15,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-04-16,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-16,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-04-17,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-17,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-04-17,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-04-17,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-04-18,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-04-19,Sneakers White 42,Shoes,1,60.0,60.0
+2023-04-20,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-04-20,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-20,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-04-20,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-20,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-04-21,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-04-21,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-21,Cap Classic,Accessories,3,10.0,30.0
+2023-04-22,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-22,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-22,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-04-23,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-24,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-25,Cap Classic,Accessories,3,10.0,30.0
+2023-04-25,Cap Classic,Accessories,3,10.0,30.0
+2023-04-25,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-26,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-26,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-04-26,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-04-27,Sneakers White 42,Shoes,2,60.0,120.0
+2023-04-28,Cap Classic,Accessories,2,10.0,20.0
+2023-04-28,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-04-28,Sneakers White 42,Shoes,1,60.0,60.0
+2023-04-28,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-04-28,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-29,Sneakers White 42,Shoes,2,60.0,120.0
+2023-04-29,Cap Classic,Accessories,3,10.0,30.0
+2023-04-29,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-04-29,Sneakers White 42,Shoes,3,60.0,180.0
+2023-04-29,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-04-30,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-04-30,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-05-01,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-05-01,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-05-01,Sneakers White 42,Shoes,2,60.0,120.0
+2023-05-01,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-05-01,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-05-02,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-05-02,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-05-03,Cap Classic,Accessories,3,10.0,30.0
+2023-05-03,Sneakers White 42,Shoes,3,60.0,180.0
+2023-05-04,Cap Classic,Accessories,3,10.0,30.0
+2023-05-04,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-05-05,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-05-05,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-05,Sneakers White 42,Shoes,1,60.0,60.0
+2023-05-06,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-05-07,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-05-07,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-05-07,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-05-07,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-05-08,Cap Classic,Accessories,3,10.0,30.0
+2023-05-08,Cap Classic,Accessories,1,10.0,10.0
+2023-05-08,Cap Classic,Accessories,2,10.0,20.0
+2023-05-08,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-08,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-05-09,Cap Classic,Accessories,2,10.0,20.0
+2023-05-09,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-05-10,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-05-10,Sneakers White 42,Shoes,1,60.0,60.0
+2023-05-10,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-05-10,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-05-10,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-05-11,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-05-11,Sneakers White 42,Shoes,3,60.0,180.0
+2023-05-11,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-11,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-05-11,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-05-12,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-05-13,Sneakers White 42,Shoes,2,60.0,120.0
+2023-05-14,Cap Classic,Accessories,1,10.0,10.0
+2023-05-15,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-05-16,Sneakers White 42,Shoes,3,60.0,180.0
+2023-05-16,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-05-17,Sneakers White 42,Shoes,1,60.0,60.0
+2023-05-17,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-17,Sneakers White 42,Shoes,1,60.0,60.0
+2023-05-18,Cap Classic,Accessories,3,10.0,30.0
+2023-05-18,Cap Classic,Accessories,1,10.0,10.0
+2023-05-19,Sneakers White 42,Shoes,1,60.0,60.0
+2023-05-19,Sneakers White 42,Shoes,2,60.0,120.0
+2023-05-20,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-21,Cap Classic,Accessories,2,10.0,20.0
+2023-05-21,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-05-21,Jeans Slim Fit,Pants,3,40.0,120.0
+2023-05-22,Cap Classic,Accessories,1,10.0,10.0
+2023-05-22,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-05-23,Cap Classic,Accessories,2,10.0,20.0
+2023-05-23,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-05-23,Sneakers White 42,Shoes,3,60.0,180.0
+2023-05-24,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-05-25,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-05-26,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-26,Cap Classic,Accessories,2,10.0,20.0
+2023-05-26,Cap Classic,Accessories,1,10.0,10.0
+2023-05-27,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-05-27,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-05-28,Cap Classic,Accessories,1,10.0,10.0
+2023-05-28,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-05-28,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-05-28,Sneakers White 42,Shoes,2,60.0,120.0
+2023-05-29,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-05-29,Cap Classic,Accessories,2,10.0,20.0
+2023-05-30,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-05-30,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-05-30,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-05-30,Cap Classic,Accessories,3,10.0,30.0
+2023-05-30,Sneakers White 42,Shoes,2,60.0,120.0
+2023-05-31,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-06-01,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-01,Cap Classic,Accessories,3,10.0,30.0
+2023-06-01,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-06-02,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-06-02,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-03,Cap Classic,Accessories,2,10.0,20.0
+2023-06-03,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-03,Cap Classic,Accessories,2,10.0,20.0
+2023-06-04,Cap Classic,Accessories,2,10.0,20.0
+2023-06-04,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-05,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-06-05,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-05,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-05,Cap Classic,Accessories,1,10.0,10.0
+2023-06-05,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-06-06,Cap Classic,Accessories,2,10.0,20.0
+2023-06-07,Cap Classic,Accessories,3,10.0,30.0
+2023-06-08,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-06-08,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-06-08,Sneakers White 42,Shoes,3,60.0,180.0
+2023-06-08,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-06-09,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-06-09,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-06-10,Sneakers White 42,Shoes,3,60.0,180.0
+2023-06-11,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-12,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-12,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-06-12,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-12,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-06-12,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-06-13,Sneakers White 42,Shoes,2,60.0,120.0
+2023-06-13,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-13,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-06-13,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-06-14,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-06-14,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-15,Cap Classic,Accessories,2,10.0,20.0
+2023-06-15,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-16,Cap Classic,Accessories,1,10.0,10.0
+2023-06-16,Cap Classic,Accessories,1,10.0,10.0
+2023-06-16,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-06-16,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-06-17,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-06-17,Cap Classic,Accessories,3,10.0,30.0
+2023-06-17,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-06-18,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-18,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-18,T-shirt Red M,T-shirts,2,15.0,30.0
+2023-06-18,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-19,T-shirt Blue L,T-shirts,3,16.0,48.0
+2023-06-19,T-shirt Blue L,T-shirts,2,16.0,32.0
+2023-06-20,Sneakers White 42,Shoes,3,60.0,180.0
+2023-06-20,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-06-20,Cap Classic,Accessories,2,10.0,20.0
+2023-06-20,Cap Classic,Accessories,3,10.0,30.0
+2023-06-21,Cap Classic,Accessories,3,10.0,30.0
+2023-06-22,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-06-22,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-06-23,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-23,Cap Classic,Accessories,2,10.0,20.0
+2023-06-23,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-23,Cap Classic,Accessories,3,10.0,30.0
+2023-06-23,Sneakers White 42,Shoes,3,60.0,180.0
+2023-06-24,Hoodie Black XL,Hoodies,3,35.0,105.0
+2023-06-24,Sneakers White 42,Shoes,1,60.0,60.0
+2023-06-24,Hoodie Black XL,Hoodies,1,35.0,35.0
+2023-06-24,Jeans Slim Fit,Pants,1,40.0,40.0
+2023-06-24,Cap Classic,Accessories,2,10.0,20.0
+2023-06-25,Cap Classic,Accessories,3,10.0,30.0
+2023-06-25,Sneakers White 42,Shoes,3,60.0,180.0
+2023-06-26,Cap Classic,Accessories,3,10.0,30.0
+2023-06-26,T-shirt Blue L,T-shirts,1,16.0,16.0
+2023-06-26,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-26,Sneakers White 42,Shoes,1,60.0,60.0
+2023-06-27,Cap Classic,Accessories,3,10.0,30.0
+2023-06-27,Cap Classic,Accessories,2,10.0,20.0
+2023-06-27,Cap Classic,Accessories,1,10.0,10.0
+2023-06-27,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-06-27,Sneakers White 42,Shoes,2,60.0,120.0
+2023-06-28,Cap Classic,Accessories,2,10.0,20.0
+2023-06-28,Cap Classic,Accessories,2,10.0,20.0
+2023-06-29,T-shirt Red M,T-shirts,1,15.0,15.0
+2023-06-29,T-shirt Red M,T-shirts,3,15.0,45.0
+2023-06-29,Cap Classic,Accessories,1,10.0,10.0
+2023-06-29,Hoodie Black XL,Hoodies,2,35.0,70.0
+2023-06-29,Jeans Slim Fit,Pants,2,40.0,80.0
+2023-06-30,T-shirt Blue L,T-shirts,1,16.0,16.0
